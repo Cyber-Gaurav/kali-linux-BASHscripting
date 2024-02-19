@@ -1,6 +1,6 @@
 #!/bin/sh
 
-echo "Hellow Hacker's!!"
+echo "Hellow Hacker's..!, This Is A IP Changer Tool:"
 echo "Here is your old IP"
 ifconfig eth0
 echo "Enter yout New IP"
